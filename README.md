@@ -15,7 +15,7 @@ for i in range(20):
     plt.axis('off');
 ```
 
-![1](mnistphoto.jpg)
+![1](mnistphoto.JPG)
 
 ##### 小型全连接网络
 
@@ -41,7 +41,7 @@ class FC2Layer(nn.Module):
 
 小型全连接网络训练结果如下：
 
-![2](1.jpg)
+![2](1.JPG)
 
 ##### 卷积神经网络
 
@@ -76,7 +76,7 @@ class CNN(nn.Module):
 
 卷积神经网络对MNIST数据集分类效果如下：
 
-![3](2.jpg)
+![3](2.JPG)
 
 ##### 打乱数据集图片像素
 
